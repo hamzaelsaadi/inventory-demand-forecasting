@@ -37,3 +37,19 @@ The purpose of this project is to learn data analytics, forecasting methods, and
 ## License
 
 MIT License
+## Roadmap
+
+### Version 1.0
+- [ ] EOQ (Economic Order Quantity) calculator
+- [ ] Safety stock calculator
+- [ ] Reorder point calculator
+
+### Version 2.0
+- [ ] Demand forecasting models
+- [ ] Data visualization dashboard
+- [ ] CSV data import/export
+
+### Version 3.0
+- [ ] Machine learning forecasting
+- [ ] Multi-product inventory optimization
+- [ ] Web application interface
